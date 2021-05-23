@@ -16,4 +16,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 5 4\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 4 5 4 3\
 &nbsp;&nbsp; 2 3 4 5 4 3 2\
-&nbsp;1 2 3 4 5 4 3 2 1
+1 2 3 4 5 4 3 2 1
